@@ -1,0 +1,142 @@
+.heading{
+    text-align: center; 
+    color: white;
+    background-color: black;
+    width:100%;
+    font-size: 3.5vw;
+    font-family: "Gabriola";
+    padding: 30px;
+}
+
+.button{
+    font-size: 4vh;
+    font-family: "Gabriola";
+    background-color: black;
+    color: white;
+}
+
+body{
+    background-color: black;
+    width: 100vw;
+}
+
+
+
+
+.middle-images{
+    background-color: rgba(228, 220, 220, 0.256);
+    content: "";
+    clear: both;
+    display:inline-block;
+    margin:0px auto;
+    
+
+    width: 90%;
+   height: fit-content;
+    text-align: center;
+    padding: 5%;
+    
+}
+
+.outer-middle-images{
+    
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100%;
+    text-align: center;
+    
+    background-color:  rgba(228, 220, 220, 0.256) ;
+}
+
+.logo1{
+    padding-top: 5%;
+}
+
+.logo2{
+    padding-top: 5%;
+}
+
+
+.shortbio{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5%;
+    font-family: "Calibri"
+}
+
+.outer-p1{
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100%;
+   
+  
+    background-color: rgba(228, 220, 220, 0.256);
+
+}
+
+.paragraph1{
+    background-color: rgba(228, 220, 220, 0.256);
+    color: white;
+    width: 65%;
+    margin: auto;
+
+    font-family: "Calibri";
+    padding: 20px;
+}
+
+
+.outer-p2{
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100%;
+   
+  
+    background-color: black;
+
+}
+.paragraph2{
+    background-color: black;
+    color: white;
+    width: 65%;
+    margin: auto;
+
+    font-family: "Calibri";
+    
+}
+
+p{
+    font-size: 3.2vh;
+}
+
+.footer{
+    background-color: rgba(228, 220, 220, 0.256);
+    
+    content: "";
+    clear: both;
+    display:inline-block;
+    margin:10px auto;
+    padding: 20px;
+    width: 90%;
+    height: fit-content;
+    
+}
+
+.outer-footer{
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100%;
+    text-align: center;
+  
+    background-color: rgba(228, 220, 220, 0.256);
+}
+
+
+
