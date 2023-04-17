@@ -9,7 +9,7 @@
 }
 
 .button{
-    font-size: 6vh;
+    font-size: 4vh;
     font-family: "Gabriola";
     background-color: black;
     color: white;
@@ -31,7 +31,7 @@ body{
     margin:0px auto;
     
 
-    width: 90%;
+    width: 100%;
    height: fit-content;
     text-align: center;
     padding: 5%;
@@ -81,7 +81,7 @@ body{
 .paragraph1{
     background-color: rgba(228, 220, 220, 0.256);
     color: white;
-    width: 65%;
+    width: 75%;
     margin: auto;
 
     font-family: "Calibri";
@@ -103,7 +103,7 @@ body{
 .paragraph2{
     background-color: black;
     color: white;
-    width: 65%;
+    width: 75%;
     margin: auto;
 
     font-family: "Calibri";
